@@ -1,4 +1,4 @@
-FROM pizzafactory0contorno/piatto:debian-11.1@sha256:f1755e03ecdc7f192e99cf3adbb3921c7d7a750a54362375f9fe540e1fceed9c
+FROM pizzafactory0contorno/piatto:debian-11.1@sha256:ebb1a6a423f0a14a5845d4dd66bd4c6658e722f83675cf38750dfe86ca9ef5de
 
 LABEL maintainer="Masaki Muranaka <monaka@monami-ya.com>"
 
